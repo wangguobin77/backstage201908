@@ -1,0 +1,21 @@
+[
+    {
+        "url": "site/login"
+    },
+    {
+        "url": "invoice",
+        "easyui": true
+    },
+    {
+        "url": "charts",
+        "echarts": true
+    },
+    {
+        "url": "test"
+    },
+    {
+        "url":"advertising/add"
+    }
+]
+
+
